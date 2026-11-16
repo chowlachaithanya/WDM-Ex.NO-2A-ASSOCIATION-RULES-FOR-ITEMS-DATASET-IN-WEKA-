@@ -36,7 +36,7 @@ L20,low,yes,fair,yes
 7)	In that dialog box there are four modes, click on explorer.
 8)	Explorer shows many options. In that click on ‘open file’ and select the arff file
 9)	Click on edit button which shows buying table on weka.
- 
+``` 
 Training Data Set  Buying Table
 <img width="730" height="786" alt="image" src="https://github.com/user-attachments/assets/fe39fa3c-e5fe-459c-a376-9dd6d5d56a1b" />
 
@@ -47,47 +47,10 @@ Procedure for Association Rules:
 4)	Select Associate option on the top of the Menu bar.
 5)	Select Choose button and then click on Apriori Algorithm.
 6)	Click on Start button and output will be displayed on the right side of the window.
- 
- <img width="1060" height="851" alt="image" src="https://github.com/user-attachments/assets/51f8ee80-b3c4-4fe8-877d-d7ccc0ed66c7" />
-
 
 Output:
-
- <img width="923" height="560" alt="image" src="https://github.com/user-attachments/assets/8e87b425-325c-493e-86b3-1780e423c255" />
-
- 
-<img width="942" height="570" alt="image" src="https://github.com/user-attachments/assets/d723d80d-9428-45b6-bc84-a1495c4ae13e" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="807" height="436" alt="{A8C8D5BA-CEE3-4190-A59B-77B90CEA39CD}" src="https://github.com/user-attachments/assets/64e30886-cd8a-4d59-b5b9-505a30449d6c" />
+<img width="802" height="505" alt="{F74C5531-9FFB-4960-A2CE-1546C76C1109}" src="https://github.com/user-attachments/assets/ad9d527f-e448-4fd9-9311-b0b415fc4b87" />
 
 Result:
 Thus, this program has been successfully executed.
